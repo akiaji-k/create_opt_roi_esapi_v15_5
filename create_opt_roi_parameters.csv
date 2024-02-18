@@ -1,0 +1,5 @@
+# User Name, Default dose unit (Absolute or Relative), Default structure name (Explanatory or Simple)
+#vms, Absolute, Explanatory
+vms, Relative, Simple
+#vms, Relative, Explanatory
+
